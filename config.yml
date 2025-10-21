@@ -23,10 +23,7 @@ menu:
           weight: 3
         - name: Data
           url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+          weight: 4
 
 params:
     description: "I put my projects here for all to see."
@@ -72,12 +69,10 @@ params:
               url: tags/
             - name: Archive
               url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: Email
-          url: https://realinfinitix@gmail.com
+          url: mailto:realinfinitix@gmail.com
         - name: GitHub
           url: https://github.com/Krish-Karthikeyan
 
@@ -87,7 +82,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Krish Karthikeyan"
       icon: favicon.ico
       iconHeight: 18
 
