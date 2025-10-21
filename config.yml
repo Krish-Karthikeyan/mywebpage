@@ -76,11 +76,11 @@ params:
               url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
-        - name: Zoom
+          url: realinfinitix@gmail.com
+        - name: GitHub
+          url: https://github.com/Krish-Karthikeyan
+      <!---  - name: Zoom
           url: https://www.zoom.us/my/igelfeld
         - name: Location
           url: location/
@@ -88,8 +88,6 @@ params:
           url: officehours/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: GitHub
-          url: https://github.com/pmichaillat
         - name: Substack
           url: https://pmichaillat.substack.com
         - name: YouTube
@@ -98,6 +96,9 @@ params:
           url: https://x.com/pmichaillat
         - name: Bluesky
           url: https://bsky.app/profile/pmichaillat.bsky.social
+        - name: CV
+          url: cv.pdf
+          -->
 
     assets:
         disableScrollBarStyle: true
