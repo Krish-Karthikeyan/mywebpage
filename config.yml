@@ -80,7 +80,7 @@ params:
           url: realinfinitix@gmail.com
         - name: GitHub
           url: https://github.com/Krish-Karthikeyan
-      <!---  - name: Zoom
+        - name: Zoom
           url: https://www.zoom.us/my/igelfeld
         - name: Location
           url: location/
@@ -98,7 +98,6 @@ params:
           url: https://bsky.app/profile/pmichaillat.bsky.social
         - name: CV
           url: cv.pdf
-          -->
 
     assets:
         disableScrollBarStyle: true
