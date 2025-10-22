@@ -76,7 +76,7 @@ params:
         - name: GitHub
           url: https://github.com/Krish-Karthikeyan
         - name: Server
-          url: https://sv.seaford.dev
+          url: https://sv.seaford.xyz
 
     assets:
         disableScrollBarStyle: true
